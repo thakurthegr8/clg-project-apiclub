@@ -1,0 +1,24 @@
+{
+  "quoteData": [
+    {
+      "heading": "Thrive",
+      "quote": "Level Up your skills, grow your career and work with others to invent the future of work.",
+      "color": "green"
+    },
+    {
+      "heading": "Inspire",
+      "quote": "Indulge your curiosity, find new ways to solve problems and harness your creativity while empowering others to do the same.",
+      "color": "yellow"
+    },
+    {
+        "heading": "Give",
+        "quote": "Share your expertise with the community to foster new ways of thinking, working and collaborating.",
+        "color": "red"
+      },
+      {
+        "heading": "Connect",
+        "quote": "Find allies to innovate, network and grow with. Make friends and have fun!",
+        "color": "indigo" 
+      }
+  ]
+}

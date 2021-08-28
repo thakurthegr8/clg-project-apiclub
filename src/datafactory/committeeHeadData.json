@@ -1,0 +1,22 @@
+{
+  "committeeHeadData": [
+    {
+      "name": "Chanakya Sethi",
+      "quote": "Learn the rules like a pro, so you can break them like an artist.",
+      "designation": "President",
+      "dataImg":"https://cdn.dribbble.com/users/6230065/avatars/normal/data?1603184917",
+      "color": "indigo",
+      "year":4,
+      "branch":"BTCSE"
+    },
+    {
+        "name": "Akansha Mahajan",
+        "quote": "The cost of doing wrong is less than cost of doing nothing.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      }
+  ]
+}
