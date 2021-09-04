@@ -7,7 +7,7 @@ import ThriveIcon from './ThriveIcon'
 export default function QuoteCard(props) {
     const{heading,quote,color} = props.quote;
     return (
-        <div className={`border border-${color}-500 flex flex-col rounded overflow-hidden transform hover:rotate-1 transition cursor-pointer`}>
+        <div className={`border border-${color}-500 flex flex-col rounded overflow-hidden transform hover:rotate-1 transition cursor-pointer max-w-xs`}>
         <div className={`bg-${color}-100 flex justify-center w-full items-center`}>
          {heading==="Thrive"&&<ThriveIcon color={color}/>}
          {heading==="Inspire"&&<InspireIcon color={color}/>}
