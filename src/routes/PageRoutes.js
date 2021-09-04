@@ -1,23 +1,19 @@
 const routes = [
     {
-        "url" : "/events",
-        "name":"Event",
+        "url" : "/",
+        "name":"Home",
         "id":1
     },
     {
-        "url" : "/testimonies",
-        "name":"Testimonies",
+        "url" : "/events",
+        "name":"Events",
         "id":2
     },
     {
-        "url" : "/our-mission",
-        "name":"Our Mission",
-        "id":4
+        "url" : "/teams",
+        "name":"Our Team",
+        "id":3
     },
-    {
-        "url" : "/design",
-        "name":"Design System",
-        "id":5
-    },
+
 ];
 export default routes;

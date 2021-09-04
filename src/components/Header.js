@@ -48,18 +48,13 @@ export default class Header extends Component {
                   }}
                   className="bg-red-500 flex-shrink-0 text-white w-full sm:w-auto text-black  text-sm md:text-base rounded-md py-3 px-4 hover:bg-red-500 font-semibold transform"
                 >
-                  Explore Now
+                  Enroll Now
                 </motion.button>
               </div>
             </div>
             <div>
             <HeroLogo/>
             </div>
-            {/* <motion.div initial={{opacity:0}} animate={{opacity:1, transition:{duration:0.5 , delay:1.5}}} >
-            <Gridlayout />
-            </motion.div> */}
-            {/* <motion.div initial={{scale:10}} animate={{scale:1}}><HeroLogo /></motion.div> */}
-            {/* <iframe src='https://my.spline.design/apilogo-4e565065ab92e2d7b3158403e504e31e/' frameborder='0' width='100%' height='100%'></iframe> */}
           </div>
         </header>
       </div>
