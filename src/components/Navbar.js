@@ -44,7 +44,7 @@ const Navbar = () => {
                 return (
                   <li
                     key={pageRoute.id}
-                    className=" rounded md:px-2 lg:px-4 py-2 font-medium hover:opacity-50 transition-all"
+                    className="text-sm rounded md:px-2 lg:px-4 py-2 font-medium hover:opacity-50 transition-all"
                   >
                     <Link to={pageRoute.url}>{pageRoute.name}</Link>
                   </li>
