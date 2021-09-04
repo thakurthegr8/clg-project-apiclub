@@ -1,17 +1,17 @@
 const routes = [
     {
-        "url" : "/events",
-        "name":"Event",
+        "url" : "/about",
+        "name":"About",
         "id":1
     },
     {
-        "url" : "/testimonies",
-        "name":"Testimonies",
+        "url" : "/events",
+        "name":"Events",
         "id":2
     },
     {
-        "url" : "/our-mission",
-        "name":"Our Mission",
+        "url" : "/teams-announcements",
+        "name":"Teams & Announcements",
         "id":4
     },
     {
