@@ -2,7 +2,16 @@
   "committeeHeadData": [
     {
       "name": "Chanakya Sethi",
-      "quote": "Learn the rules like a pro, so you can break them like an artist.",
+      "quote": "The Future belongs to those who believes in the beauty of their Dreams.",
+      "designation": "President",
+      "dataImg":"https://cdn.dribbble.com/users/6230065/avatars/normal/data?1603184917",
+      "color": "indigo",
+      "year":4,
+      "branch":"BTCSE"
+    },
+    {
+      "name": "Rahul Budhan",
+      "quote": "Experiences makes you mature, someone without experience is just a child",
       "designation": "President",
       "dataImg":"https://cdn.dribbble.com/users/6230065/avatars/normal/data?1603184917",
       "color": "indigo",
@@ -11,7 +20,34 @@
     },
     {
         "name": "Akansha Mahajan",
-        "quote": "The cost of doing wrong is less than cost of doing nothing.",
+        "quote": "Opportunities don't happen, You Create Them.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      },
+      {
+        "name": "Tiyanshi Baluja",
+        "quote": "You Don't have to see the whole staircase, Just take the first step.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      },
+      {
+        "name": "Ariz Rizvi",
+        "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      },
+      {
+        "name": "Tavleen Kaur Gujral",
+        "quote": "Inside the modern Feminist hides an Archaic Desire.",
         "designation": "Committe Head",
         "dataImg":"../assets/images/ak.jpeg",
         "color": "yellow",
