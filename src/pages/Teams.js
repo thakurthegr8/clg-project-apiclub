@@ -1,36 +1,26 @@
 import React, { Fragment } from 'react';
 import { Tab } from "@headlessui/react";
-const newTabs = [
-{
-    "name":"New Events"
-},
-{
-    "name":"Upcoming Events"
-},
-{
-    "name":"Highlights"
-}
-]
+import {data} from "../datafactory/teamsData.json"
 const Teams = () => {
     return (
-        <div className="mx-auto container max-w-2xl min-h-screen">
+        <div className="mx-auto container min-h-screen px-4 py-4 md:py-2 md:px-0">
             <Tab.Group>
-                <div className="bg-gray-50 rounded-2xl p-4 mt-8 border border-black">
+                <div>
                     <Tab.List>
-                        <div className="flex justify-around">
+                        <div className="flex space-x-2 justify-between md:justify-start md:py-2">
                             {
-                                newTabs.map(tab=><Tab as={Fragment}>{
+                                data.map(tab => <Tab as={Fragment}>{
                                     ({ selected }) =>
-                                        <button className={`px-4 py-2 font-semibold text-xs md:text-sm rounded-2xl  ${selected ? "bg-red-600 text-white hover:bg-red-700" : " text-black hover:bg-gray-300"}`}>{tab.name}</button>}</Tab>)
+                                        <button className={`px-4 py-2 font-semibold text-sm border-b-2 border-transparent   ${selected ? "border-b-2 border-red-600 text-red-600 " : " text-gray-500 hover:bg-gray-100"}`}>{tab.category}</button>}</Tab>)
                             }
                         </div>
                     </Tab.List>
                 </div>
-                <div className="py-8">
+                <div className="py-4">
                     <Tab.Panels>
-                        <Tab.Panel><h1 className="text-5xl font-extrabold ">New Events</h1></Tab.Panel>
-                        <Tab.Panel><h1 className="text-5xl font-extrabold">Upcoming Events</h1></Tab.Panel>
-                        <Tab.Panel><h1 className="text-5xl font-extrabold">Highlights</h1></Tab.Panel>
+                        {
+                            data.map(item => <Tab.Panel><h1 className="text-3xl md:text-4xl font-extrabold ">{item.category}</h1></Tab.Panel>)
+                        }
                     </Tab.Panels>
                 </div>
             </Tab.Group>

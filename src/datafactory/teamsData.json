@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "category": "Executives",
+            "categoryData": [
+                {
+                    "name": "Chanakya Sethi",
+                    "designation": "President"
+                },
+                {
+                    "name": "Rahul Budhan",
+                    "designation": "VP Operations"
+                },
+                {
+                    "name": "Akanksha Mahajan",
+                    "designation": "VP Public Relations "
+                },
+                {
+                    "name": "Tiyanshi Saluja",
+                    "designation": "VP Marketing"
+                },
+                {
+                    "name": "Tavleen Kaur Gujral",
+                    "designation": "HR Manager"
+                },
+                {
+                    "name": "Ariz Raza Rizvi",
+                    "designation": "Publicity Co-head"
+                },
+                {
+                    "name": " Vasudev Pant",
+                    "designation": "Publicity Co-head"
+                },
+                {
+                    "name": "Aditya Verma",
+                    "designation": "Event Management Executive"
+                },
+                {
+                    "name": "Shivam Rai",
+                    "designation": "Design Co-heads"
+                },
+                {
+                    "name": "Parth Garg",
+                    "designation": "Design Co-heads"
+                },
+                {
+                    "name": "Ansh Bajaj",
+                    "designation": "Technical Co-heads"
+                },
+                {
+                    "name": "Vaibhav Mandhani",
+                    "designation": "Technical Co-heads"
+                },
+                {
+                    "name": " Aakashdeep Singh",
+                    "designation": "Cinematics Head"
+                }
+            ]
+        }
+    ]
+}
