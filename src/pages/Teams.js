@@ -19,7 +19,7 @@ export default function Teams() {
     return (
         <div>
             
-          <div class="flex flex-wrap w-full">
+          <div class="flex flex-wrap w-full h-screen">
       <div class="lg:w w-full mb-6 lg:mb-0">
       <div class="bg-gradient-to-r from-purple-400 via-pink-400 to-red-400">
       <h1 class="text-2xl lg:text-5xl font-semibold text-gray-800 flex flex-wrap justify-center font-extrabold py-8">Our Team</h1></div>

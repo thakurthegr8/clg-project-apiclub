@@ -44,7 +44,7 @@ const Navbar = () => {
                 return (
                   <li
                     key={pageRoute.id}
-                    className=" rounded md:px-2 lg:px-4 py-2 font-medium hover:opacity-50 transition-all"
+                    className="text-sm rounded md:px-2 lg:px-4 py-2 font-medium hover:opacity-50 transition-all"
                   >
                     <Link to={pageRoute.url}>{pageRoute.name}</Link>
                   </li>
@@ -53,11 +53,11 @@ const Navbar = () => {
             </ul>
           </nav>
 
-          {/* <button
+          <button
             className={`px-6 py-2 rounded-md hidden md:block font-semibold bg-white text-black focus:outline-none`}
           >
             Contact Us
-          </button> */}
+          </button>
           <button
             className="md:hidden bg-white bg-opacity-20 rounded-full p-1 border-white focus:bg-opacity-30"
             onClick={() => setNavbar(true)}
@@ -130,3 +130,5 @@ const Navbar = () => {
   );
 };
 export default Navbar;
+
+

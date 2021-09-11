@@ -4,12 +4,12 @@ export default function AboutDIT() {
     return (
         <div>
             <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto flex flex-wrap">
+  <div class="container px-5 pb-24 pt-12 mx-auto flex flex-wrap">
 
   <div class="flex flex-wrap w-full mb-20">
       <div class="lg:w w-full mb-6 lg:mb-0">
       <h1 class="text-2xl lg:text-5xl font-semibold text-black flex flex-wrap justify-center font-extrabold">About DIT University</h1>
-        <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+        <div class="h-1 w-20 bg-yellow-400 rounded"></div>
       </div>
     </div>
     <div class="flex flex-wrap md:-m-2 -m-1">
@@ -37,7 +37,7 @@ export default function AboutDIT() {
       </div>
     </div>
   </div>
-  <p class="text-center px-8 w-full leading-relaxed text-gray-500">Imagine, Aspire, Achieve – this is the credo of DIT University. Young minds come here to unlock the potential of their being; and learn some skills as they move on to the World of opportunities. As DIT University looks into the future to carve a niche for itself; it sees both challenges and opportunities. Together the Students, Faculty, Alumni and Management can make things happen. We aspire to be not only the leading educationists who have an edge over others but consider Education as the most powerful weapon which you can use to change the world The spirit of philanthropy which was the driving force of our founder Chairman has been so infused in the members of the Unison family that they are highly motivated to follow his footsteps and walk the road of self-transcendence where they compete not with others but with their previous achievements, exploring the perpetual possibilities in life.</p>
+  <p class="text-center px-12 w-full leading-relaxed text-gray-500">Imagine, Aspire, Achieve – this is the credo of DIT University. Young minds come here to unlock the potential of their being; and learn some skills as they move on to the World of opportunities. As DIT University looks into the future to carve a niche for itself; it sees both challenges and opportunities. Together the Students, Faculty, Alumni and Management can make things happen. We aspire to be not only the leading educationists who have an edge over others but consider Education as the most powerful weapon which you can use to change the world The spirit of philanthropy which was the driving force of our founder Chairman has been so infused in the members of the Unison family that they are highly motivated to follow his footsteps and walk the road of self-transcendence where they compete not with others but with their previous achievements, exploring the perpetual possibilities in life.</p>
 </section>
 
         </div>

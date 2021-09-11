@@ -27,7 +27,7 @@ export default function HeroLogo() {
   return (
     <motion.svg
     xmlns="http://www.w3.org/2000/svg"
-    className="w-full transition-transform " style={item}
+    className=" transition-transform " style={item}
     viewBox="0 0 253.009 204.173"
   >
     <motion.g
@@ -92,3 +92,6 @@ export default function HeroLogo() {
   </motion.svg>
   );
 }
+
+
+
