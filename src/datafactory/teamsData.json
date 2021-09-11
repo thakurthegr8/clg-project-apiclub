@@ -2,58 +2,71 @@
     "data": [
         {
             "category": "Executives",
-            "categoryData": [
+            "categgorData": [
                 {
                     "name": "Chanakya Sethi",
-                    "designation": "President"
+                    "designation": "President",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Rahul Budhan",
-                    "designation": "VP Operations"
+                    "designation": "VP Operations",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Akanksha Mahajan",
-                    "designation": "VP Public Relations "
+                    "designation": "VP Public Relations ",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Tiyanshi Saluja",
-                    "designation": "VP Marketing"
+                    "designation": "VP Marketing",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Tavleen Kaur Gujral",
-                    "designation": "HR Manager"
+                    "designation": "HR Manager",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Ariz Raza Rizvi",
-                    "designation": "Publicity Co-head"
+                    "designation": "Publicity Co-head",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": " Vasudev Pant",
-                    "designation": "Publicity Co-head"
+                    "designation": "Publicity Co-head",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Aditya Verma",
-                    "designation": "Event Management Executive"
+                    "designation": "Event Management Executive",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Shivam Rai",
-                    "designation": "Design Co-heads"
+                    "designation": "Design Co-heads",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Parth Garg",
-                    "designation": "Design Co-heads"
+                    "designation": "Design Co-heads",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Ansh Bajaj",
-                    "designation": "Technical Co-heads"
+                    "designation": "Technical Co-heads",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": "Vaibhav Mandhani",
-                    "designation": "Technical Co-heads"
+                    "designation": "Technical Co-heads",
+                    "imgUrl": "this is an image url"
                 },
                 {
                     "name": " Aakashdeep Singh",
-                    "designation": "Cinematics Head"
+                    "designation": "Cinematics Head",
+                    "imgUrl": "this is an image url"
                 }
             ]
         }
