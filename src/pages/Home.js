@@ -8,11 +8,6 @@ import QuoteCard from "../components/QuoteCard";
 import Testimonies from "../components/Testimonies";
 import ThriveIcon from "../components/ThriveIcon";
 import VideoContent from "../components/VideoContent";
-<<<<<<< HEAD
-import Testimonies from "../components/Testimonies";
-
-=======
->>>>>>> 878a62477d642d9422093ddfa61cd2b04f90c00c
 import { quoteData } from "../datafactory/quoteData.json";
 
 export default class Home extends Component {
@@ -22,11 +17,8 @@ export default class Home extends Component {
         <Header />
         <Quote/>
         <VideoContent/>
-<<<<<<< HEAD
-=======
         <AboutUs/>
         <AboutDIT/>
->>>>>>> 878a62477d642d9422093ddfa61cd2b04f90c00c
         <Testimonies/>
         {/* <CommitteeHeadQuotes/> */}
         </div>

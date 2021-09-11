@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Events() {
     return (
-        <div class="mb-10 py-8 px-6">
+        <div class="mb-10 py-8 px-6 h-screen">
           <span   className="ml-6 bg-clip-text font-semibold tracking-tighter text-transparent bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-2xl sm:text-5xl md:text-7xl lg:text-6xl">Events and Anouncements</span>
           <div class="mt-4 h-1 bg-gray-200 rounded overflow-hidden">
           <div class="h-1 w-96 bg-yellow-300 rounded overflow-hidden">

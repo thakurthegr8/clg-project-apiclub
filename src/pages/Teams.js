@@ -13,7 +13,7 @@ const newTabs = [
 ]
 const Teams = () => {
     return (
-        <div className="mx-auto container max-w-2xl">
+        <div className="mx-auto container max-w-2xl min-h-screen">
             <Tab.Group>
                 <div className="bg-gray-50 rounded-2xl p-4 mt-8 border border-black">
                     <Tab.List>
