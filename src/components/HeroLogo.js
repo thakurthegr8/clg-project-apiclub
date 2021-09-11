@@ -92,3 +92,6 @@ export default function HeroLogo() {
   </motion.svg>
   );
 }
+
+
+

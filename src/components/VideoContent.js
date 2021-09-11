@@ -1,5 +1,8 @@
 import React from 'react';
+<<<<<<< HEAD
 import bgImage from "../assets/images/blob-scene-haikei.svg";
+=======
+>>>>>>> 878a62477d642d9422093ddfa61cd2b04f90c00c
 
 const VideoContent = () => {
     return (
@@ -14,10 +17,18 @@ const VideoContent = () => {
                     </p>
                     <button className="max-w-xs text-white font-semibold px-4 py-2 bg-red-600 rounded ">Watch More Videos</button>
                 </div>
+<<<<<<< HEAD
                 <iframe style={{ aspectRatio: "16/9" }} className="rounded-xl shadow-md w-full max-w-2xl" src="https://www.youtube.com/embed/mC-pC5zaVJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+                <iframe style={{ aspectRatio: "16/9" }} className="rounded-xl shadow-md w-full max-w-2xl" src="https://dl.dropboxusercontent.com/s/y8vf74vwguupinw/API%20video.mp4?dl=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> 878a62477d642d9422093ddfa61cd2b04f90c00c
             </div>
         </section>
     );
 }
 
+<<<<<<< HEAD
 export default VideoContent;
+=======
+export default VideoContent;
+>>>>>>> 878a62477d642d9422093ddfa61cd2b04f90c00c
