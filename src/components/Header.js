@@ -10,7 +10,7 @@ export default class Header extends Component {
   render() {
     return (
       <div>
-        <header className="mt-8 mb-24 bg-white">
+        <header className="mt-8 mb-12 bg-white">
           <div className="grid grid-cols-1 md:grid-cols-2  mx-auto container p-4 mb-8 gap-8">
             <div className="flex flex-col items-center md:items-start justify-center md:justify-start text-left mt-4 order-2 md:order-1">
               <motion.h1
@@ -53,7 +53,7 @@ export default class Header extends Component {
               </div>
             </div>
             <div className="order-1 md:order-2 flex justify-center">
-            <div className="w-3/4 md:w-full">
+            <div className="w-3/4 md:w-full max-w-sm md:max-w-3xl">
             <HeroLogo/>
             </div>
             </div>
