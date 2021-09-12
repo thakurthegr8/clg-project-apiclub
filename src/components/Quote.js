@@ -5,7 +5,7 @@ import {quoteData} from "../datafactory/quoteData.json";
 
 export default function Quote() {
     return (
-        <section className="flex flex-col mx-auto container justify-center items-center py-10 px-4">
+        <section className="flex flex-col mx-auto container justify-center items-center py-8 px-4">
           <div className="flex flex-col md:text-center">
             <h1 className="text-2xl lg:text-5xl font-semibold text-black flex flex-wrap justify-center font-extrabold">
               Be seen, be heard and make your impact.

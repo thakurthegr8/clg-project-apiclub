@@ -18,7 +18,7 @@ export default function QuoteCard(props) {
             <div>
             <span className={`bg-${color}-600 uppercase p-1 text-base font-medium text-white`}>{heading}</span>
             </div>
-            <p className="text-gray-800 font-medium">
+            <p className="text-gray-700 font-medium">
             {quote}
             </p>
         </div>
