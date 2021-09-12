@@ -2,9 +2,9 @@
     "data": [
         {
             "category": "Executives",
-            "categgorData": [
+            "categoryData": [
                 {
-                    "name": "Chanakya",
+                    "name": "Chanakya Sethi",
                     "designation": "President",
                     "imgUrl": "this is an image url"
                 },
@@ -68,6 +68,116 @@
                     "designation": "Cinematics Head",
                     "imgUrl": "this is an image url"
                 }
+            ]
+        },
+        {
+            "category": "Working",
+            "categoryData": [
+                {
+                    "name": "Archit Sharma",
+                    "designation": "Operations Manager",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Vachaspati Mishra",
+                    "designation": "Public Relations Coordinator",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Vachaspati Mishra",
+                    "designation": "2nd Year Coordinator",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Kajal Goyal",
+                    "designation": "Marketing Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Sahil Aneja",
+                    "designation": "Marketing Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Sahil Aneja",
+                    "designation": "Marketing Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Reet Prasad",
+                    "designation": "Publicity Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Kapil Kumar",
+                    "designation": "Event Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Bhavya Aggarwal",
+                    "designation": "Event Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Aryan Rastogi",
+                    "designation": "Event Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Smruti Raushan",
+                    "designation": "Design Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Diksha Verma",
+                    "designation": "Design Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Sparsh",
+                    "designation": "Technical Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Samyak",
+                    "designation": "Technical Coordinators",
+                    "imgUrl": "this is imgUrl"
+                },
+                {
+                    "name": "Nikhil Gaur",
+                    "designation": "Technical Coordinators",
+                    "imgUrl": "this is imgUrl"
+                }
+            ]
+        },
+        {
+            "category": "Advisory",
+            "categoryData": [
+                 {
+            "name": "Shreya Verma",
+            "designation": null,
+            "imgUrl": "imgUrl"
+        },
+        {
+            "name": "Vibhor Joshi",
+            "designation": null,
+            "imgUrl": "imgUrl"
+        },
+        {
+            "name": "Shradha Panjiar",
+            "designation": null,
+            "imgUrl": "imgUrl"
+        },
+        {
+            "name": "Saumya Joshi",
+            "designation": null,
+            "imgUrl": "imgUrl"
+        },
+        {
+            "name": "Prashant Kesharwani",
+            "designation": null,
+            "imgUrl": "imgUrl"
+        }
             ]
         }
     ]

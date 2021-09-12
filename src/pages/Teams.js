@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react';
 import { Tab } from "@headlessui/react";
-import {data} from "../datafactory/teamsData.json"
+import { data } from "../datafactory/teamsData.json"
+import TeamCategorySection from '../components/TeamCategorySection';
 const Teams = () => {
     return (
         <div className="mx-auto container min-h-screen px-4 py-4 md:py-2 md:px-0">
@@ -16,13 +17,11 @@ const Teams = () => {
                         </div>
                     </Tab.List>
                 </div>
-                <div className="py-4">
-                    <Tab.Panels>
-                        {
-                            data.map(item => <Tab.Panel><h1 className="text-3xl md:text-4xl font-extrabold ">{item.category}</h1></Tab.Panel>)
-                        }
-                    </Tab.Panels>
-                </div>
+                <Tab.Panels>
+                    {
+                        data.map(item => <Tab.Panel><TeamCategorySection heading={item.category} categoryData={item.categoryData} key={Math.random()}/></Tab.Panel>)
+                    }
+                </Tab.Panels>
             </Tab.Group>
         </div>
     );
