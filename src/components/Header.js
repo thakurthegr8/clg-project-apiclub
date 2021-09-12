@@ -53,7 +53,7 @@ export default class Header extends Component {
               </div>
             </div>
             <div className="order-1 md:order-2 flex justify-center">
-            <div className="w-3/4 md:w-full">
+            <div className="w-3/4 md:w-full max-w-sm md:max-w-3xl">
             <HeroLogo/>
             </div>
             </div>
