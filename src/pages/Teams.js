@@ -10,7 +10,7 @@ const Teams = () => {
                     <Tab.List>
                         <div className="flex space-x-2 justify-between md:justify-start md:py-2">
                             {
-                                data.map(tab => <Tab as={Fragment}>{
+                                data.map(tab => <Tab key={Math.random()} as={Fragment}>{
                                     ({ selected }) =>
                                         <button className={`px-4 py-2 font-semibold text-sm border-b-2 border-transparent   ${selected ? "border-b-2 border-red-600 text-red-600 " : " text-gray-500 hover:bg-gray-100"}`}>{tab.category}</button>}</Tab>)
                             }
@@ -19,7 +19,7 @@ const Teams = () => {
                 </div>
                 <Tab.Panels>
                     {
-                        data.map(item => <Tab.Panel><TeamCategorySection heading={item.category} categoryData={item.categoryData} key={Math.random()}/></Tab.Panel>)
+                        data.map(item => <Tab.Panel key={Math.random()}><TeamCategorySection heading={item.category} categoryData={item.categoryData} key={Math.random()}/></Tab.Panel>)
                     }
                 </Tab.Panels>
             </Tab.Group>

@@ -10,15 +10,6 @@ const Navbar = () => {
 
   const [isLogoTitleHidden, setLogoTitleHidden] = useState(false);
 
-  // const { scrollYProgress } = useViewportScroll();
-
-  // scrollYProgress.onChange((x) => {
-  //   if (x > 0.01) {
-  //     setLogoTitleHidden(true);
-  //   } else {
-  //     setLogoTitleHidden(false);
-  //   }
-  // });
   return (
     <section
       className={` text-black transition-all flex flex-col space-y-4 border-b border-black z-10 p-3`}
@@ -53,11 +44,13 @@ const Navbar = () => {
             </ul>
           </nav>
 
+          <Link to={`/contact`}>
           <button
-            className={`px-6 py-2 rounded-md hidden md:block font-semibold bg-white text-black focus:outline-none`}
+            className={`px-6 py-2 rounded-md hidden md:block font-semibold bg-black text-white focus:outline-none`}
           >
             Contact Us
           </button>
+          </Link>
           <button
             className="md:hidden bg-white bg-opacity-20 rounded-full p-1 border-white focus:bg-opacity-30"
             onClick={() => setNavbar(true)}
@@ -119,9 +112,12 @@ const Navbar = () => {
                   );
                 })}
               </ul>
-              <button className="px-6 py-2 w-full mt-2 rounded-md font-semibold bg-black text-white focus:outline-none">
+              <Link to={`/contact`}>
+                <button className="px-6 py-2 w-full mt-2 rounded-md font-semibold bg-black text-white focus:outline-none">
                 Contact Us
               </button>
+              </Link>
+
             </nav>
           </div>
         )}

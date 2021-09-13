@@ -3,150 +3,151 @@
         {
             "category": "Executives",
             "categoryData": [
-                {
-                    "name": "Chanakya Sethi",
-                    "designation": "President",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Rahul Budhan",
-                    "designation": "VP Operations",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Akanksha Mahajan",
-                    "designation": "VP Public Relations ",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Tiyanshi Saluja",
-                    "designation": "VP Marketing",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Tavleen Kaur Gujral",
-                    "designation": "HR Manager",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Ariz Raza Rizvi",
-                    "designation": "Publicity Co-head",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": " Vasudev Pant",
-                    "designation": "Publicity Co-head",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Aditya Verma",
-                    "designation": "Event Management Executive",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Shivam Rai",
-                    "designation": "Design Co-heads",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Parth Garg",
-                    "designation": "Design Co-heads",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Ansh Bajaj",
-                    "designation": "Technical Co-heads",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": "Vaibhav Mandhani",
-                    "designation": "Technical Co-heads",
-                    "imgUrl": "this is an image url"
-                },
-                {
-                    "name": " Aakashdeep Singh",
-                    "designation": "Cinematics Head",
-                    "imgUrl": "this is an image url"
-                }
+            {
+                "name": "Chanakya Sethiiii",
+                "designation": "President",
+                "imgUrl": "7xzmrsigyj9jfck/chanakya%20sethi.jpg?dl=0"
+            },
+            {
+                "name": "Rahul Budhan",
+                "designation": "VP Operations",
+                "imgUrl": "p3m81barw1u2nyy/rahul.jpg?dl=0"
+            },
+            {
+                "name": "Akanksha Mahajan",
+                "designation": "VP Public Relations ",
+                "imgUrl": "28y9iba7q5t0qah/akanksha.jpg?dl=0"
+            },
+            {
+                "name": "Tiyanshi Saluja",
+                "designation": "VP Marketing",
+                "imgUrl": "gulh8zdhswsua65/tiyanshi.jpg?dl=0"
+            },
+            {
+                "name": "Tavleen Kaur Gujral",
+                "designation": "HR Manager",
+                "imgUrl": "tsjkgtxam5be4a6/tavleen.jpg?dl=0"
+            },
+            {
+                "name": "Ariz Raza Rizvi",
+                "designation": "Publicity Co-head",
+                "imgUrl": "h190a51v5it31eh/ariz.jpg?dl=0"
+            },
+            {
+                "name": " Vasudev Pant",
+                "designation": "Publicity Co-head",
+                "imgUrl": "vjed2savlk4t0gu/vasudev.jpg?dl=0"
+            },
+            {
+                "name": "Aditya Verma",
+                "designation": "Event Management Executive",
+                "imgUrl": "meayfa148qi5p4p/Aditya%20Verma.jpg?dl=0"
+            },
+            {
+                "name": "Shivam Rai",
+                "designation": "Design Co-heads",
+                "imgUrl": "iaolhd9udx4avti/shivam.jpg?dl=0"
+            },
+            {
+                "name": "Parth Garg",
+                "designation": "Design Co-heads",
+                "imgUrl": "e9b66j38mm6c017/parth.jpeg?dl=0"
+            },
+            {
+                "name": "Ansh Bajaj",
+                "designation": "Technical Co-heads",
+                "imgUrl": "spl0tqtbwe8nl7f/ansh.jpeg?dl=0"
+            },
+            {
+                "name": "Vaibhav Mandhani",
+                "designation": "Technical Co-heads",
+                "imgUrl": "dk0vy3t5d2rs6ia/vaibhav.jpeg?dl=0"
+            },
+            {
+                "name": " Aakashdeep Singh",
+                "designation": "Cinematics Head",
+                "imgUrl": "26crgp460m2rqhh/aakashdeep.jpg?dl=0"
+            }
             ]
         },
         {
             "category": "Working",
             "categoryData": [
-                {
-                    "name": "Archit Sharma",
-                    "designation": "Operations Manager",
-                    "imgUrl": "this is imgUrl"
-                },
+                
                 {
                     "name": "Vachaspati Mishra",
                     "designation": "Public Relations Coordinator",
-                    "imgUrl": "this is imgUrl"
+                    "imgUrl": "j5r8783sb2q2b3z/vachaspati.jpg?dl=0"
                 },
                 {
-                    "name": "Vachaspati Mishra",
+                    "name": "Wamiq Khan",
                     "designation": "2nd Year Coordinator",
-                    "imgUrl": "this is imgUrl"
+                    "imgUrl": "6fhmg4e71fyu6b6/wamiq.jpg?dl=0"
                 },
                 {
                     "name": "Kajal Goyal",
-                    "designation": "Marketing Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Marketing Coordinator",
+                    "imgUrl": "kd72kxdmzkisgrh/kajal.jpg?dl=0"
                 },
                 {
                     "name": "Sahil Aneja",
-                    "designation": "Marketing Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Marketing Coordinator",
+                    "imgUrl": "m5dv1k6wfgf88zd/sahil%20aneja.jpeg?dl=0"
                 },
                 {
-                    "name": "Sahil Aneja",
-                    "designation": "Marketing Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "name": "Archit Sharma",
+                    "designation": "Operations Manager",
+                    "imgUrl": "0ehvlz01dqz56ku/archit.jpeg?dl=0"
+                },
+                {
+                    "name": "Prashant Bisht",
+                    "designation": "Marketing Coordinator",
+                    "imgUrl": "3glyj4tzba0t2vx/prashant_bisht.jpg?dl=0"
                 },
                 {
                     "name": "Reet Prasad",
-                    "designation": "Publicity Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Publicity Coordinator",
+                    "imgUrl": "0g2vaqweuxmdk4c/reet.jpeg?dl=0"
                 },
                 {
                     "name": "Kapil Kumar",
-                    "designation": "Event Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Event Coordinator",
+                    "imgUrl": "r05dskouu3qrd8a/kapil.jpeg?dl=0"
                 },
                 {
                     "name": "Bhavya Aggarwal",
-                    "designation": "Event Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Event Coordinator",
+                    "imgUrl": "5b4i34zefef6zt0/bhavya.png?dl=0"
                 },
                 {
                     "name": "Aryan Rastogi",
-                    "designation": "Event Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Event Coordinator",
+                    "imgUrl": "eqehfql7ztsqw0h/aryan_rastogi.jpg?dl=0"
                 },
                 {
                     "name": "Smruti Raushan",
-                    "designation": "Design Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Design Coordinator",
+                    "imgUrl": "mvixxfosqa7i7j1/smruti.jpg?dl=0"
                 },
                 {
                     "name": "Diksha Verma",
-                    "designation": "Design Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Design Coordinator",
+                    "imgUrl": "yeu69pio1ituutt/diksha.jpeg?dl=0"
                 },
                 {
-                    "name": "Sparsh",
-                    "designation": "Technical Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "name": "Sparsh Baluja",
+                    "designation": "Technical Coordinator",
+                    "imgUrl": "bvlu05edctrpe19/sparsh.jpg?dl=0"
                 },
                 {
-                    "name": "Samyak",
-                    "designation": "Technical Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "name": "Samyak Jain",
+                    "designation": "Technical Coordinator",
+                    "imgUrl": "fz2zjfsojpblddm/samyak.jpeg?dl=0"
                 },
                 {
                     "name": "Nikhil Gaur",
-                    "designation": "Technical Coordinators",
-                    "imgUrl": "this is imgUrl"
+                    "designation": "Technical Coordinator",
+                    "imgUrl": "6e7s8fzfav1d3yl/nikhil.jpeg?dl=0"
                 }
             ]
         },
@@ -156,27 +157,27 @@
                  {
             "name": "Shreya Verma",
             "designation": null,
-            "imgUrl": "imgUrl"
+            "imgUrl": null
         },
         {
             "name": "Vibhor Joshi",
             "designation": null,
-            "imgUrl": "imgUrl"
+            "imgUrl": null
         },
         {
             "name": "Shradha Panjiar",
             "designation": null,
-            "imgUrl": "imgUrl"
+            "imgUrl": null
         },
         {
             "name": "Saumya Joshi",
             "designation": null,
-            "imgUrl": "imgUrl"
+            "imgUrl": null
         },
         {
             "name": "Prashant Kesharwani",
             "designation": null,
-            "imgUrl": "imgUrl"
+            "imgUrl": null
         }
             ]
         }

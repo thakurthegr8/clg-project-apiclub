@@ -1,0 +1,65 @@
+{
+  "committeeHeadData": [
+    {
+      "name": "Chanakya Sethi",
+      "url":"s/ropg1oa0epfosxa/chanakya%20sethi.jpg?dl=0",
+      "quote": "The Future belongs to those who believes in the beauty of their Dreams.",
+      "designation": "President",
+      "dataImg":"https://cdn.dribbble.com/users/6230065/avatars/normal/data?1603184917",
+      "color": "indigo",
+      "year":4,
+      "branch":"BTCSE"
+    },
+    {
+      "name": "Rahul Budhan",
+      "url":"s/pdjpb8g3cj999uu/rahul.jpg?dl=0",
+      "quote": "Experiences makes you mature, someone without experience is just a child",
+      "designation": "President",
+      "dataImg":"https://cdn.dribbble.com/users/6230065/avatars/normal/data?1603184917",
+      "color": "indigo",
+      "year":4,
+      "branch":"BTCSE"
+    },
+    {
+        "name": "Akansha Mahajan",
+        "url":"s/6wi5dpwow94s5qr/akanksha.jpg?dl=0",
+        "quote": "Opportunities don't happen, You Create Them.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      },
+      {
+        "name": "Tiyanshi Baluja",
+        "url":"s/5qtelxvgwfqnl7h/tiyanshi.jpg?dl=0",
+        "quote": "You Don't have to see the whole staircase, Just take the first step.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      },
+      {
+        "name": "Ariz Rizvi",
+        "url":"s/o2vn4zey5v3y9os/ariz.jpg?dl=0",
+        "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      },
+      {
+        "name": "Tavleen Kaur Gujral",
+        "url":"s/op0mne0dsb2eh7k/tavleen.jpg?dl=0",
+        "quote": "Inside the modern Feminist hides an Archaic Desire.",
+        "designation": "Committe Head",
+        "dataImg":"../assets/images/ak.jpeg",
+        "color": "yellow",
+        "year":3,
+        "branch":"BTCSE"
+      }
+  ]
+  
+}

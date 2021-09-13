@@ -6,6 +6,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Teams from './pages/Teams';
 import Events from './pages/Events';
 import Footer from './components/Footer';
+import ContactUs from './pages/ContactUs';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
        <Route path="/" component={Home} exact/>
        <Route path="/teams" component={Teams}/>
        <Route path="/events" component={Events}/>
+       {/* <Route path="/contact" component={ContactUs}/> */}
      </Switch>
      <Footer/>
     </div>

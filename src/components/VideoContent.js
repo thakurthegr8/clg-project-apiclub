@@ -13,8 +13,10 @@ const VideoContent = () => {
                     </p>
                     <button className="max-w-xs text-white font-semibold px-4 py-2 bg-red-600 rounded ">Watch More Videos</button>
                 </div>
-                <iframe style={{ aspectRatio: "16/9" }} className="rounded-xl shadow-md w-full max-w-2xl" src="https://dl.dropboxusercontent.com/s/y8vf74vwguupinw/API%20video.mp4?dl=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+                <video style={{ aspectRatio: "16/9" }} className="rounded-xl shadow-md w-full max-w-2xl" src="https://dl.dropboxusercontent.com/s/y8vf74vwguupinw/API%20video.mp4?dl=0" controls  ></video>
+                {/* <iframe style={{ aspectRatio: "16/9" }} className="rounded-xl shadow-md w-full max-w-2xl" src="https://dl.dropboxusercontent.com/s/y8vf74vwguupinw/API%20video.mp4?dl=0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             */}
+        </div>
         </section>
     );
 }

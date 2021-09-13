@@ -4,8 +4,8 @@ const TestimonialCard = ({data}) => {
     return (
         <div className="flex flex-row text-center items-center border  shadow-md rounded">
 
-{/* <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
-      <div class="p-4 md:w-1/3 flex flex-col text-center items-center"> */}
+{/* <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
+      <div className="p-4 md:w-1/3 flex flex-col text-center items-center"> */}
 
             <img className=" ml-4 mt-2 mb-2 sm:w-28 sm:h-28 h-16 w-16 sm: rounded-full border-2  flex-shrink-0" src={`https://dl.dropboxusercontent.com/${data.url}`}/>
             <div className="flex flex-col flex-wrap justify-start items-start px-6 pb-2">
@@ -13,7 +13,7 @@ const TestimonialCard = ({data}) => {
             <p className="text-left tracking-tight  text-black leading-normal mt-2">
                 {data.quote}
             </p>
-            <span className="text-base font-semibold text-left text-white bg-red-600 rounded p-1">
+            <span className="text-base font-semibold text-left text-black rounded p-1">
                - {data.name}
             </span>
             </div>
