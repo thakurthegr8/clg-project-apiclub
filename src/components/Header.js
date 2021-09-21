@@ -33,14 +33,17 @@ export default class Header extends Component {
                   opacity: 1,
                   transition: { duration: 0.5, delay: 1.1 },
                 }}
-                className="mt-4 text-base md:text-lg text-center md:text-left text-gray-700  font-medium"
-              >
-                Join API club at DIT University and experience a breakthrough.
-                <br />
-                We believe in helping others and that's it.
+                className="mt-4 text-base md:text-lg text-center md:text-center text-gray-700  font-medium"
+              >Thinking about 
+              A-Activities, 
+              P-Programmings, 
+              I-Internships <br/>
+              Then think of us the "API" club.<br />
+              Grooming the Leader inside you.
+                
               </motion.p>
               <div className="mt-4 flex w-full justify-center md:justify-start">
-                <motion.button
+                {/* <motion.button
                   initial={{ opacity: 0 }}
                   animate={{
                     opacity: 1,
@@ -49,7 +52,7 @@ export default class Header extends Component {
                   className="bg-black  text-white max-w-xs w-full md:w-auto text-black  text-sm md:text-base rounded-md py-3 px-4 hover:bg-opacity-90 font-semibold transform"
                 >
                   Explore Now
-                </motion.button>
+                </motion.button> */}
               </div>
             </div>
             <div className="order-1 md:order-2 flex justify-center">

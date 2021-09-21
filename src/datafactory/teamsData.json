@@ -4,69 +4,83 @@
             "category": "Executives",
             "categoryData": [
             {
-                "name": "Chanakya Sethiiii",
+                "name": "Chanakya Sethi",
                 "designation": "President",
-                "imgUrl": "7xzmrsigyj9jfck/chanakya%20sethi.jpg?dl=0"
+                "imgUrl": "7xzmrsigyj9jfck/chanakya%20sethi.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/chanakya-sethi-179a77152",
+                "insUrl":"https://www.instagram.com/chanakyasethi/"
             },
             {
                 "name": "Rahul Budhan",
                 "designation": "VP Operations",
-                "imgUrl": "p3m81barw1u2nyy/rahul.jpg?dl=0"
+                "imgUrl": "p3m81barw1u2nyy/rahul.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/rahul-budhan-10bb531a6",
+                "insUrl":"https://www.instagram.com/captures_where_i_belong/"
             },
             {
                 "name": "Akanksha Mahajan",
                 "designation": "VP Public Relations ",
-                "imgUrl": "28y9iba7q5t0qah/akanksha.jpg?dl=0"
+                "imgUrl": "28y9iba7q5t0qah/akanksha.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/akanksha-mahajan-1176311ab/",
+                "insUrl": null
             },
             {
                 "name": "Tiyanshi Saluja",
                 "designation": "VP Marketing",
-                "imgUrl": "gulh8zdhswsua65/tiyanshi.jpg?dl=0"
+                "imgUrl": "gulh8zdhswsua65/tiyanshi.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/tiyanshi-saluja-990143204",
+                "insUrl": null
             },
             {
                 "name": "Tavleen Kaur Gujral",
                 "designation": "HR Manager",
-                "imgUrl": "tsjkgtxam5be4a6/tavleen.jpg?dl=0"
+                "imgUrl": "tsjkgtxam5be4a6/tavleen.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/tavleen-gujral-3b048a188",
+                "insUrl": null
             },
-            {
-                "name": "Ariz Raza Rizvi",
-                "designation": "Publicity Co-head",
-                "imgUrl": "h190a51v5it31eh/ariz.jpg?dl=0"
-            },
+            
             {
                 "name": " Vasudev Pant",
                 "designation": "Publicity Co-head",
-                "imgUrl": "vjed2savlk4t0gu/vasudev.jpg?dl=0"
+                "imgUrl": "vjed2savlk4t0gu/vasudev.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/vasudev-pant-497444215",
+                "insUrl":"https://www.instagram.com/vasudev.311/"
             },
             {
                 "name": "Aditya Verma",
                 "designation": "Event Management Executive",
-                "imgUrl": "meayfa148qi5p4p/Aditya%20Verma.jpg?dl=0"
+                "imgUrl": "meayfa148qi5p4p/Aditya%20Verma.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/mwlite/in/aditya-verma-8a8258177",
+                "insUrl":"https://www.instagram.com/_gucci_san_/"
             },
             {
                 "name": "Shivam Rai",
                 "designation": "Design Co-heads",
-                "imgUrl": "iaolhd9udx4avti/shivam.jpg?dl=0"
+                "imgUrl": "iaolhd9udx4avti/shivam.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/shivam-rai-1550a8190/",
+                "insUrl":"https://www.instagram.com/shivamr.ai/"
             },
-            {
-                "name": "Parth Garg",
-                "designation": "Design Co-heads",
-                "imgUrl": "e9b66j38mm6c017/parth.jpeg?dl=0"
-            },
+            
             {
                 "name": "Ansh Bajaj",
                 "designation": "Technical Co-heads",
-                "imgUrl": "spl0tqtbwe8nl7f/ansh.jpeg?dl=0"
+                "imgUrl": "spl0tqtbwe8nl7f/ansh.jpeg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/ansh-bajaj-20731b193",
+                "insUrl": null
             },
             {
                 "name": "Vaibhav Mandhani",
                 "designation": "Technical Co-heads",
-                "imgUrl": "dk0vy3t5d2rs6ia/vaibhav.jpeg?dl=0"
+                "imgUrl": "dk0vy3t5d2rs6ia/vaibhav.jpeg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/vaibhav-mandhani-ab07a1179",
+                "insUrl":"https://www.instagram.com/vaibhu_27/"
             },
             {
                 "name": " Aakashdeep Singh",
                 "designation": "Cinematics Head",
-                "imgUrl": "26crgp460m2rqhh/aakashdeep.jpg?dl=0"
+                "imgUrl": "26crgp460m2rqhh/aakashdeep.jpg?dl=0",
+                "ldnUrl": null,
+                "insUrl":"https://instagram.com/aakashdeep17"
             }
             ]
         },
@@ -77,108 +91,349 @@
                 {
                     "name": "Vachaspati Mishra",
                     "designation": "Public Relations Coordinator",
-                    "imgUrl": "j5r8783sb2q2b3z/vachaspati.jpg?dl=0"
+                    "imgUrl": "j5r8783sb2q2b3z/vachaspati.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/vachaspati-mishra-1a5b691b8",
+                "insUrl":"https://www.instagram.com/vachas_comrade007/"
                 },
                 {
                     "name": "Wamiq Khan",
                     "designation": "2nd Year Coordinator",
-                    "imgUrl": "6fhmg4e71fyu6b6/wamiq.jpg?dl=0"
+                    "imgUrl": "6fhmg4e71fyu6b6/wamiq.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/mohd-wamiq-khan-839532200",
+                "insUrl":"https://www.instagram.com/The_wamiqkhan_2112"
                 },
                 {
                     "name": "Kajal Goyal",
                     "designation": "Marketing Coordinator",
-                    "imgUrl": "kd72kxdmzkisgrh/kajal.jpg?dl=0"
+                    "imgUrl": "kd72kxdmzkisgrh/kajal.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/kajal-goyal-a01b8418b",
+                "insUrl":"https://www.instagram.com/bulbulgoyal19/"
                 },
-                {
-                    "name": "Sahil Aneja",
-                    "designation": "Marketing Coordinator",
-                    "imgUrl": "m5dv1k6wfgf88zd/sahil%20aneja.jpeg?dl=0"
-                },
-                {
-                    "name": "Archit Sharma",
-                    "designation": "Operations Manager",
-                    "imgUrl": "0ehvlz01dqz56ku/archit.jpeg?dl=0"
-                },
+               
                 {
                     "name": "Prashant Bisht",
                     "designation": "Marketing Coordinator",
-                    "imgUrl": "3glyj4tzba0t2vx/prashant_bisht.jpg?dl=0"
+                    "imgUrl": "3glyj4tzba0t2vx/prashant_bisht.jpg?dl=0",
+                    "ldnUrl":"http://www.linkedin.com/in/PrashantBisht02",
+                "insUrl":"https://www.instagram.com/prshnt_bt/"
                 },
-                {
-                    "name": "Reet Prasad",
-                    "designation": "Publicity Coordinator",
-                    "imgUrl": "0g2vaqweuxmdk4c/reet.jpeg?dl=0"
-                },
-                {
-                    "name": "Kapil Kumar",
-                    "designation": "Event Coordinator",
-                    "imgUrl": "r05dskouu3qrd8a/kapil.jpeg?dl=0"
-                },
-                {
-                    "name": "Bhavya Aggarwal",
-                    "designation": "Event Coordinator",
-                    "imgUrl": "5b4i34zefef6zt0/bhavya.png?dl=0"
-                },
+                
                 {
                     "name": "Aryan Rastogi",
                     "designation": "Event Coordinator",
-                    "imgUrl": "eqehfql7ztsqw0h/aryan_rastogi.jpg?dl=0"
+                    "imgUrl": "eqehfql7ztsqw0h/aryan_rastogi.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/aryan-rastogi-1a0731218",
+                "insUrl":"https://instagram.com/ary.30_"
                 },
                 {
                     "name": "Smruti Raushan",
                     "designation": "Design Coordinator",
-                    "imgUrl": "mvixxfosqa7i7j1/smruti.jpg?dl=0"
-                },
-                {
-                    "name": "Diksha Verma",
-                    "designation": "Design Coordinator",
-                    "imgUrl": "yeu69pio1ituutt/diksha.jpeg?dl=0"
+                    "imgUrl": "mvixxfosqa7i7j1/smruti.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/smrutiraushan",
+                "insUrl":"https://instagram.com/raushan_smruti"
                 },
                 {
                     "name": "Sparsh Baluja",
                     "designation": "Technical Coordinator",
-                    "imgUrl": "bvlu05edctrpe19/sparsh.jpg?dl=0"
+                    "imgUrl": "bvlu05edctrpe19/sparsh.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/sparsh-baluja-57389a157",
+                "insUrl": null
                 },
                 {
                     "name": "Samyak Jain",
                     "designation": "Technical Coordinator",
-                    "imgUrl": "fz2zjfsojpblddm/samyak.jpeg?dl=0"
+                    "imgUrl": "fz2zjfsojpblddm/samyak.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/samyak-jain-3a76701b8/",
+                "insUrl": null
                 },
                 {
                     "name": "Nikhil Gaur",
                     "designation": "Technical Coordinator",
-                    "imgUrl": "6e7s8fzfav1d3yl/nikhil.jpeg?dl=0"
+                    "imgUrl": "6e7s8fzfav1d3yl/nikhil.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/mwlite/in/nikhil-gaur-5991141a5",
+                "insUrl":"https://www.instagram.com/nick_gaur_/"
                 }
             ]
         },
         {
-            "category": "Advisory",
+            "category": "Developer",
             "categoryData": [
-                 {
-            "name": "Shreya Verma",
-            "designation": null,
-            "imgUrl": null
-        },
-        {
-            "name": "Vibhor Joshi",
-            "designation": null,
-            "imgUrl": null
-        },
-        {
-            "name": "Shradha Panjiar",
-            "designation": null,
-            "imgUrl": null
-        },
-        {
-            "name": "Saumya Joshi",
-            "designation": null,
-            "imgUrl": null
-        },
-        {
-            "name": "Prashant Kesharwani",
-            "designation": null,
-            "imgUrl": null
+                {
+                    "name": "Rahul Thakur",
+                    "designation": null,
+                    "imgUrl": "2trdhhegzogme3z/Rahul_Thakur.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/rahul-thakur-7828aa21a/",
+                    "insUrl": null
+                },
+                {
+                    "name": "Anmol Aggarwal",
+                    "designation": null,
+                    "imgUrl": "foyfejilhsaijpr/Anmol_Aggarwal_.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/anmol-aggarwal-74a805211",
+                    "insUrl": null
+                },
+                {
+                    "name": "Shivani Bahuguna",
+                    "designation": null,
+                    "imgUrl": "sbh2fejejpivcjb/Shivani.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/shivani-bahuguna-887522217/",
+                    "insUrl": null
+                },
+                {
+                    "name": "Vanshika Agarwal",
+                    "designation": null,
+                    "imgUrl": "205pfk9lmdlqo1u/Vanshika%20Agarwal.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/vanshika-agarwal-b83251215",
+                    "insUrl": null
+                }
+            ]
         }
+    ],
+
+
+
+
+
+
+    "dataraw": [
+        {
+            "category": "Executives",
+            "categoryData": [
+            {
+                "name": "Chanakya Sethi",
+                "designation": "President",
+                "imgUrl": "7xzmrsigyj9jfck/chanakya%20sethi.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/chanakya-sethi-179a77152",
+                "insUrl":"https://www.instagram.com/chanakyasethi/"
+            },
+            {
+                "name": "Rahul Budhan",
+                "designation": "VP Operations",
+                "imgUrl": "p3m81barw1u2nyy/rahul.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/rahul-budhan-10bb531a6",
+                "insUrl":"https://www.instagram.com/captures_where_i_belong/"
+            },
+            {
+                "name": "Akanksha Mahajan",
+                "designation": "VP Public Relations ",
+                "imgUrl": "28y9iba7q5t0qah/akanksha.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/akanksha-mahajan-1176311ab/",
+                "insUrl": null
+            },
+            {
+                "name": "Tiyanshi Saluja",
+                "designation": "VP Marketing",
+                "imgUrl": "gulh8zdhswsua65/tiyanshi.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/tiyanshi-saluja-990143204",
+                "insUrl": null
+            },
+            {
+                "name": "Tavleen Kaur Gujral",
+                "designation": "HR Manager",
+                "imgUrl": "tsjkgtxam5be4a6/tavleen.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/tavleen-gujral-3b048a188",
+                "insUrl": null
+            },
+            {
+                "name": "Ariz Raza Rizvi",
+                "designation": "Publicity Co-head",
+                "imgUrl": "h190a51v5it31eh/ariz.jpg?dl=0",
+                "ldnUrl": null,
+                "insUrl": null
+            },
+            {
+                "name": " Vasudev Pant",
+                "designation": "Publicity Co-head",
+                "imgUrl": "vjed2savlk4t0gu/vasudev.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/vasudev-pant-497444215",
+                "insUrl":"https://www.instagram.com/vasudev.311/"
+            },
+            {
+                "name": "Aditya Verma",
+                "designation": "Event Management Executive",
+                "imgUrl": "meayfa148qi5p4p/Aditya%20Verma.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/mwlite/in/aditya-verma-8a8258177",
+                "insUrl":"https://www.instagram.com/_gucci_san_/"
+            },
+            {
+                "name": "Shivam Rai",
+                "designation": "Design Co-heads",
+                "imgUrl": "iaolhd9udx4avti/shivam.jpg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/shivam-rai-1550a8190/",
+                "insUrl":"https://www.instagram.com/shivamr.ai/"
+            },
+            {
+                "name": "Parth Garg",
+                "designation": "Design Co-heads",
+                "imgUrl": "e9b66j38mm6c017/parth.jpeg?dl=0",
+                "ldnUrl": null,
+                "insUrl": null
+            },
+            {
+                "name": "Ansh Bajaj",
+                "designation": "Technical Co-heads",
+                "imgUrl": "spl0tqtbwe8nl7f/ansh.jpeg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/ansh-bajaj-20731b193",
+                "insUrl": null
+            },
+            {
+                "name": "Vaibhav Mandhani",
+                "designation": "Technical Co-heads",
+                "imgUrl": "dk0vy3t5d2rs6ia/vaibhav.jpeg?dl=0",
+                "ldnUrl":"https://www.linkedin.com/in/vaibhav-mandhani-ab07a1179",
+                "insUrl":"https://www.instagram.com/vaibhu_27/"
+            },
+            {
+                "name": " Aakashdeep Singh",
+                "designation": "Cinematics Head",
+                "imgUrl": "26crgp460m2rqhh/aakashdeep.jpg?dl=0",
+                "ldnUrl": null,
+                "insUrl":"https://instagram.com/aakashdeep17"
+            }
+            ]
+        },
+        {
+            "category": "Working",
+            "categoryData": [
+                
+                {
+                    "name": "Vachaspati Mishra",
+                    "designation": "Public Relations Coordinator",
+                    "imgUrl": "j5r8783sb2q2b3z/vachaspati.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/vachaspati-mishra-1a5b691b8",
+                "insUrl":"https://www.instagram.com/vachas_comrade007/"
+                },
+                {
+                    "name": "Wamiq Khan",
+                    "designation": "2nd Year Coordinator",
+                    "imgUrl": "6fhmg4e71fyu6b6/wamiq.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/mohd-wamiq-khan-839532200",
+                "insUrl":"https://www.instagram.com/The_wamiqkhan_2112"
+                },
+                {
+                    "name": "Kajal Goyal",
+                    "designation": "Marketing Coordinator",
+                    "imgUrl": "kd72kxdmzkisgrh/kajal.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/kajal-goyal-a01b8418b",
+                "insUrl":"https://www.instagram.com/bulbulgoyal19/"
+                },
+                {
+                    "name": "Sahil Aneja",
+                    "designation": "Marketing Coordinator",
+                    "imgUrl": "m5dv1k6wfgf88zd/sahil%20aneja.jpeg?dl=0",
+                    "ldnUrl": null,
+                "insUrl": null
+                },
+                {
+                    "name": "Archit Sharma",
+                    "designation": "Operations Manager",
+                    "imgUrl": "0ehvlz01dqz56ku/archit.jpeg?dl=0",
+                    "ldnUrl": null,
+                "insUrl": null
+                },
+                {
+                    "name": "Prashant Bisht",
+                    "designation": "Marketing Coordinator",
+                    "imgUrl": "3glyj4tzba0t2vx/prashant_bisht.jpg?dl=0",
+                    "ldnUrl":"http://www.linkedin.com/in/PrashantBisht02",
+                "insUrl":"https://www.instagram.com/prshnt_bt/"
+                },
+                {
+                    "name": "Reet Prasad",
+                    "designation": "Publicity Coordinator",
+                    "imgUrl": "0g2vaqweuxmdk4c/reet.jpeg?dl=0",
+                    "ldnUrl": null,
+                "insUrl": null
+                },
+                {
+                    "name": "Kapil Kumar",
+                    "designation": "Event Coordinator",
+                    "imgUrl": "r05dskouu3qrd8a/kapil.jpeg?dl=0",
+                    "ldnUrl": null,
+                "insUrl": null
+                },
+                {
+                    "name": "Bhavya Aggarwal",
+                    "designation": "Event Coordinator",
+                    "imgUrl": "5b4i34zefef6zt0/bhavya.png?dl=0",
+                    "ldnUrl": null,
+                "insUrl": null
+                },
+                {
+                    "name": "Aryan Rastogi",
+                    "designation": "Event Coordinator",
+                    "imgUrl": "eqehfql7ztsqw0h/aryan_rastogi.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/aryan-rastogi-1a0731218",
+                "insUrl":"https://instagram.com/ary.30_"
+                },
+                {
+                    "name": "Smruti Raushan",
+                    "designation": "Design Coordinator",
+                    "imgUrl": "mvixxfosqa7i7j1/smruti.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/smrutiraushan",
+                "insUrl":"https://instagram.com/raushan_smruti"
+                },
+                {
+                    "name": "Diksha Verma",
+                    "designation": "Design Coordinator",
+                    "imgUrl": "yeu69pio1ituutt/diksha.jpeg?dl=0",
+                    "ldnUrl": null,
+                "insUrl": null
+                },
+                {
+                    "name": "Sparsh Baluja",
+                    "designation": "Technical Coordinator",
+                    "imgUrl": "bvlu05edctrpe19/sparsh.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/sparsh-baluja-57389a157",
+                "insUrl": null
+                },
+                {
+                    "name": "Samyak Jain",
+                    "designation": "Technical Coordinator",
+                    "imgUrl": "fz2zjfsojpblddm/samyak.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/samyak-jain-3a76701b8/",
+                "insUrl": null
+                },
+                {
+                    "name": "Nikhil Gaur",
+                    "designation": "Technical Coordinator",
+                    "imgUrl": "6e7s8fzfav1d3yl/nikhil.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/mwlite/in/nikhil-gaur-5991141a5",
+                "insUrl":"https://www.instagram.com/nick_gaur_/"
+                }
+            ]
+        },
+        {
+            "category": "Developer",
+            "categoryData": [
+                {
+                    "name": "Rahul Thakur",
+                    "designation": null,
+                    "imgUrl": "2trdhhegzogme3z/Rahul_Thakur.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/rahul-thakur-7828aa21a/",
+                    "insUrl": null
+                },
+                {
+                    "name": "Anmol Aggarwal",
+                    "designation": null,
+                    "imgUrl": "foyfejilhsaijpr/Anmol_Aggarwal_.jpg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/anmol-aggarwal-74a805211",
+                    "insUrl": null
+                },
+                {
+                    "name": "Shivani Bahuguna",
+                    "designation": null,
+                    "imgUrl": "sbh2fejejpivcjb/Shivani.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/shivani-bahuguna-887522217/",
+                    "insUrl": null
+                },
+                {
+                    "name": "Vanshika Agarwal",
+                    "designation": null,
+                    "imgUrl": "205pfk9lmdlqo1u/Vanshika%20Agarwal.jpeg?dl=0",
+                    "ldnUrl":"https://www.linkedin.com/in/vanshika-agarwal-b83251215",
+                    "insUrl": null
+                }
             ]
         }
     ]

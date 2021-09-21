@@ -4,7 +4,7 @@ import { data } from "../datafactory/teamsData.json"
 import TeamCategorySection from '../components/TeamCategorySection';
 const Teams = () => {
     return (
-        <div className="mx-auto container min-h-screen px-4 py-4 md:py-2 md:px-0">
+        <div className="mx-auto container min-h-screen px-4 py-4 md:py-2 md:px-4">
             <Tab.Group>
                 <div>
                     <Tab.List>

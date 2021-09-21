@@ -19,7 +19,7 @@ export default class Home extends Component {
         <VideoContent/>
         <AboutUs/>
         <AboutDIT/>
-        <Testimonies/>
+        {/* <Testimonies/> */}
         {/* <CommitteeHeadQuotes/> */}
         </div>
     );

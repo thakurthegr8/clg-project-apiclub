@@ -18,7 +18,7 @@ function App() {
        <Route path="/" component={Home} exact/>
        <Route path="/teams" component={Teams}/>
        <Route path="/events" component={Events}/>
-       {/* <Route path="/contact" component={ContactUs}/> */}
+       <Route path="/contact" component={ContactUs}/>
      </Switch>
      <Footer/>
     </div>
