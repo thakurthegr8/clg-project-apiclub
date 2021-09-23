@@ -40,9 +40,9 @@ export default class Header extends Component {
               I-Internships <br/>
               Then think of us the "API" club.<br />
               Grooming the Leader inside you.
-                
+
               </motion.p>
-              <div className="mt-4 flex w-full justify-center md:justify-start">
+              <div className="flex w-full justify-center md:justify-start">
                 {/* <motion.button
                   initial={{ opacity: 0 }}
                   animate={{

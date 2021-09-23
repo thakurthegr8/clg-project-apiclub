@@ -8,8 +8,9 @@ export default function AboutDIT() {
 
 <div className="flex flex-wrap w-full mb-8">
     <div className="lg:w-1/2 w-full mb-6 lg:mb-0">
-    <h1 className="text-2xl lg:text-5xl font-semibold text-black flex flex-wrap justify-center font-extrabold">About DIT</h1>
-      <div className="h-1 w-20 bg-red-500 rounded"></div>
+    {/* <h1 className="text-2xl lg:text-5xl font-semibold text-black flex flex-wrap justify-center font-extrabold">About DIT</h1> */}
+    <span   className=" bg-clip-text font-extrabold flex flex-wrap justify-center tracking-tighter text-transparent bg-gradient-to-r from-purple-600 via-pink-700 to-red-600 text-4xl sm:text-6xl md:text-7xl lg:text-7xl">About DIT</span>
+      {/* <div className="h-1 w-20 bg-red-500 rounded"></div> */}
     </div>
     <p className="lg:w-1/2 w-full leading-relaxed text-gray-700">
     Imagine, Aspire, Achieve – this is the credo of DIT University. Young minds come here to unlock the potential of their being; and learn some skills as they move on to the World of opportunities. As DIT University looks into the future to carve a niche for itself; it sees both challenges and opportunities. Together the Students, Faculty, Alumni and Management can make things happen.</p>

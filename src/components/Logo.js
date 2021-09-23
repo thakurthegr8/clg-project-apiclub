@@ -18,7 +18,7 @@ export default function Logo() {
             data-name="Path 1"
             d="M3199.782,246.509h27.172l113.72,182.32-14.219,21.853Z"
             transform="translate(-2640 57)"
-            fill="#efe544"
+            fill="#f2b41b"
           />
           <path
             id="Path_2"

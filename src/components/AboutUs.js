@@ -8,8 +8,9 @@ export default function AboutUs() {
 
   <div className="flex flex-wrap w-full mb-8">
       <div className="lg:w-1/2 w-full mb-6 lg:mb-0">
-      <h1 className="text-2xl lg:text-5xl font-semibold text-black flex flex-wrap justify-center font-extrabold">About Us</h1>
-        <div className="h-1 w-20 bg-red-500 rounded"></div>
+      {/* <h1 className="text-2xl lg:text-5xl font-semibold text-black flex flex-wrap justify-center font-extrabold">About Us</h1> */}
+      <span   className="flex flex-wrap justify-center bg-clip-text font-extrabold tracking-tighter text-transparent bg-gradient-to-r from-purple-600 via-pink-700 to-red-600 text-4xl sm:text-6xl md:text-7xl lg:text-7xl">About Us</span>
+        {/* <div className="h-1 w-20 bg-red-500 rounded"></div> */}
       </div>
       <p className="lg:w-1/2 w-full leading-relaxed text-gray-700">
 We at API believe in growth through experience and continuous learning by providing you a platform where are free to put down your thoughts inorder to stand out.

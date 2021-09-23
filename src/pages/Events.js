@@ -41,7 +41,7 @@ export default function Events() {
 
             <div class="flex flex-wrap w-full mt-20 mb-10">
       <div class="lg:w-1/2 w-full  lg:mb-0">
-      <h1 class="text-2xl lg:text-4xl font-bold text-black flex flex-wrap justify-center font-bold">Anouncements</h1>
+      <h1 class="text-3xl lg:text-5xl font-bold text-black flex flex-wrap justify-center font-bold">Anouncements</h1>
         <div class="h-1 w-20 bg-red-500 rounded"></div>
       </div>
       <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Explore yourself,push your capabilities,the floor is all yours to Shine!</p>
@@ -57,7 +57,7 @@ export default function Events() {
 
       
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
-        <div class="rounded-lg h-96 overflow-hidden">
+        <div class="rounded-lg h-auto overflow-hidden">
           <img alt="content" class="object-fill object-center h-full w-full" src="https://dl.dropboxusercontent.com/s/i0pv2sh6zvf8ft0/Recruitment%20Poster.jpg?dl=0"/>
         </div>
         {/* <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Shooting Stars</h2>
@@ -73,7 +73,7 @@ export default function Events() {
 
 
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
-        <div class="rounded-lg h-96 overflow-hidden">
+        <div class="rounded-lg h-auto overflow-hidden">
           <img alt="content" class="object-fill object-center h-full w-full" src="https://dl.dropboxusercontent.com/s/pq87usszd8hta38/recruit-info-01-01.jpg?dl=0"/>
         </div>
         {/* <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Shooting Stars</h2>
@@ -150,7 +150,7 @@ export default function Events() {
 
 <div class="flex flex-wrap w-full mt-20 mb-8">
       <div class="lg:w-1/2 w-full  lg:mb-0">
-      <h1 class="text-2xl lg:text-4xl font-bold text-black flex flex-wrap justify-center font-bold">Highlights</h1>
+      <h1 class="text-3xl lg:text-5xl font-bold text-black flex flex-wrap justify-center font-bold">Highlights</h1>
         <div class="h-1 w-20 bg-yellow-300 rounded"></div>
       </div>
       <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.</p>

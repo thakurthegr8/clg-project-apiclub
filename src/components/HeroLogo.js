@@ -10,7 +10,7 @@ const icon1 = {
   visible: {
     pathLength: 1,
     opacity: 1,
-    fill: "rgb(255 ,238 ,0)",
+    fill: "rgb(242, 180, 27)",
 
   }
 }
@@ -24,7 +24,7 @@ const icon2 = {
   visible: {
     pathLength: 1,
     opacity: 1,
-    fill: "rgb(255,3,3)",
+    fill: "rgb(235 34 39)",
 
   }
 }
@@ -38,7 +38,7 @@ const icon3 = {
   visible: {
     pathLength: 1,
     opacity: 1,
-    fill: "rgb(255,3,3)",
+    fill: "rgb(235 34 39)",
 
   }
 }
@@ -52,14 +52,14 @@ const icon4 = {
   visible: {
     pathLength: 1,
     opacity: 1,
-    fill: "rgb(255,3,3)",
+    fill: "rgb(235 34 39)",
 
   }
 }
 const item = {
   width: "100%",
   overflow: "visible",
-  stroke: "#ff0303",
+  stroke: "#eb2227",
   strokeWidth: 2,
   strokeLinejoin: "round",
   strokeLinecap: "round",
@@ -68,7 +68,7 @@ const item = {
 const item2 = {
   width: "100%",
   overflow: "visible",
-  stroke: "#ffee00",
+  stroke: "#f2b41b",
   strokeWidth: 2,
   strokeLinejoin: "round",
   strokeLinecap: "round",
@@ -78,7 +78,8 @@ export default function HeroLogo() {
 
   return (
     <div className="flex flex-col">
-    <div className="text-xs sm:text-lg md:text-base lg:text-3xl  text-black font-black text-center uppercase italic overflow-hidden logoHeading" ><span className="leading-tight tracking-tight" style={{color:"#ff0303"}}>Leaders </span><span className="leading-tight tracking-tight" style={{color:"#ffee00"}}>for Tomorrow</span></div>
+      
+    {/* <div className="text-xs sm:text-lg md:text-base lg:text-3xl  text-black font-black text-center uppercase italic overflow-hidden logoHeading" ><span className="leading-tight tracking-tight" style={{color:"#ff0303"}}>Leaders </span><span className="leading-tight tracking-tight" style={{color:"#ffee00"}}>for Tomorrow</span></div> */}
     <motion.svg
       xmlns="http://www.w3.org/2000/svg"
       className=" transition-transform " style={item}
